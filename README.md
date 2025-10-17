@@ -28,5 +28,15 @@ Uma **API** é um **conjunto de rotinas e padrões** que define como diferentes 
 - **RESTful** → implementação prática dos princípios REST.
 
 ### ⚙️ Comunicação com a API
+https://pokeapi.co/api/v2/pokemon/15
 
+**- Componentes da URL**:
+
+**-Protocolo: https**
+
+**-Servidor: pokeapi.co**
+
+**-Porta: 443 (HTTPS padrão)**
+
+**-Recurso: /api/v2/pokemon/15**
 
