@@ -29,5 +29,4 @@ Uma **API** é um **conjunto de rotinas e padrões** que define como diferentes 
 
 ### ⚙️ Comunicação com a API
 
-Exemplo de endpoint:
 
