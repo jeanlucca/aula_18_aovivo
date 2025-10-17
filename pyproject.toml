@@ -1,0 +1,17 @@
+[tool.poetry]
+name = "aula-18-aovivo"
+version = "0.1.0"
+description = ""
+authors = ["jean"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.12"
+requests = "^2.32.5"
+pydantic = "^2.12.2"
+sqlalchemy = "^2.0.44"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
